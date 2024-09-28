@@ -1,1 +1,1 @@
-Fork/Mirror of https://regexper.com/ by [Jeff Avallone](https://gitlab.com/javallone)
+Mirror of https://regexper.com/ by [Jeff Avallone](https://gitlab.com/javallone)
